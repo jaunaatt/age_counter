@@ -1,0 +1,1 @@
+age_counter is a simple Go (Golang) program that calculates a person's age based on their birth year and the current year. The user is prompted to enter both values, and the program then computes the difference between the two years to determine and display the user's age in years.
